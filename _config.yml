@@ -1,0 +1,88 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Yewei Song (宋 業偉)
+title: PhD student in Computer Science
+email: yewei.song@uni.lu
+website: etamin.github.io
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: syw12345ht
+facebook_username: syw12345ht
+linkedin_username: yewei-song-a99190a9
+orcid_username: 0000-0002-6314-7515
+
+# Additional icon links
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Yewei and now I'm a Doctoral Fellowship of University of Luxembourg, supervised by Jacques Klein. I am a programming fan from childhood. My academic research is mainly in the field of <mark>Natural Language Processing</mark>.
+  My common technology stack includes <mark>Python</mark>, <mark>Java</mark>, <mark>JavaScripts</mark> etc. 
+  In <mark>NLP</mark>, my focus area is <mark>Question Answering</mark> and <mark>Information Extraction</mark>, familiar with <mark>BERT</mark> and <mark>GPT</mark>.
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in computer science some of my other interests and hobbies are ::
+    - Tourism
+    - Photography
+    - Histoty
+    - Console game
+    - Anime
+    - Foreign Language Learning(Japanese)
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

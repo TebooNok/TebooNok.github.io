@@ -1,0 +1,27 @@
+# Experience template
+- layout: left
+  company: USTC iFlytek
+  link: https://www.iflytek.com/en/
+  job_title: Senior Software Engineer
+  dates: June 2017 - August 2019
+  quote: >
+    China's well-known intelligent voice company
+  description: | # this will include new lines to allow paragraphs
+    - Design a analysis system based on K-Medoids Clustering and Hungarian algorithm distance model by PySpark(Python)
+    - Design a text data compare system based on Word2vec
+    - Design a collaborative document transfer system(Java)
+    - Design a easy setup load test system by Node.js
+    - Lead a DevOps and grayscale release team
+    - System load and risk analysis(Nginx \& Haproxy)
+    - Code review and static checking(Java)
+    - ASR model training and testing
+    - Agile team management. New employee training lecturer
+- layout: left
+  company: China UnionPay
+  link: http://www.unionpayintl.com/en/
+  job_title: Assistant Software Engineer
+  dates: July 2016 - June 2017
+  quote: >
+    UnionPay is the largest card payment organization in the world
+  description: | # this will include new lines to allow paragraphs
+    Cross platform(AIX and x86-64) QR-Code payment system based on Spring and MySQL. Agile tool design (auto deploy tool) and integrated deployment solution design.

@@ -1,0 +1,24 @@
+# Project template
+- layout: top-middle
+  name: Automated Speech Scoring with DNN or GMM in Goodness of Pronunciations
+  link: http://etamin.github.io/pdf/minipj.pdf
+  quote: >
+    A comparison of DNN and GMM model in Goodness of Pronunciations, supervised by <a href="https://www.cs.bham.ac.uk/~pjh/">P.J.Hancox</a>
+  description: | # this will include new lines to allow paragraphs
+    This is a Second Semester Mini-Project of MSc project, a simple research compare different models in GoP algorithm. The research based on Kaldi toolkit and three group of collected voice data from non-native English speaker. The reporter selected the deep neural network and the mixed Gaussian model from the development history of ASR technology as a comparison between the new and old technologies.
+
+- layout: top-middle
+  name: Text Logical Scoring Based on Knowledge Graph (Recent) 
+  link: http://etamin.github.io/pdf/Master_thesis.pdf
+  quote: >
+    Try to use scale of KG size to judge essays logical. Supervised by <a href="https://www.cs.bham.ac.uk/~pjh/">P.J.Hancox</a>
+  description: | # this will include new lines to allow paragraphs
+    This is a research project I am currently working on, and it is also my master's degree project. This article proposes to use the scale of the knowledge graph as a criterion for judging the logic of essay, and summarizes the methods for constructing the knowledge graph from essay and the problems that may be encountered in the scoring process.
+
+- layout: top-middle
+  name: Investigation of Recommender System Failure Scenarios
+  link: http://etamin.github.io/pdf/HCI.pdf
+  quote: >
+    Try to use scale of KG size to judge essays logical, supervised by Bob Hendley
+  description: | # this will include new lines to allow paragraphs
+    In Research Topic of Human Computer Interaction, I choose to investigate various failure scenarios of the recommendation system. And what methods and techniques are used to solve these failure scenarios. This article mainly studies how to improve these failure scenarios from five aspects: personal adaptation, recommendation quality, privacy protection, ethical principles, and deep models.

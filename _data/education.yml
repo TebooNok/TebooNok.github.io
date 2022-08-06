@@ -1,0 +1,40 @@
+# Education Template
+- layout: left
+  name: University of Luxembourg
+  dates: 2022 - Now
+  qualification: PhD of Computer Science
+  quote: >
+    The University of Luxembourg was founded in 2003 by combining four existing education and research institutes: the Centre universitaire, Institut supérieur d'études et de recherches pédagogiques, Institut supérieur de technologie, and Institut d'études éducatives et sociales. The university is the only public university in Luxembourg.
+  description: | # this will include new lines to allow paragraphs
+    As a PhD student in SnT, I mainly research on Natural Language Processing Tasks.
+- layout: left
+  name: Osaka University
+  dates: 2021 - 2022
+  qualification: PhD of Computer Science
+  quote: >
+    Osaka University is a public research university located in Osaka Prefecture, Japan. It was one of Imperial Universities in Japan, one of the Designated National University and selected as a Top Type university of Top Global University Project by the Japanese government.
+  description: | # this will include new lines to allow paragraphs
+    As a PhD student in Intelligence and Sensing Lab., I mainly research on Video Question-Answering system and other NLP based fusion missions. Transfer to Luxembourg by March 2022.
+- layout: left
+  name: University of Birmingham
+  dates: 2019 - 2020
+  qualification: MSc Advance Computer Science
+  quote: >
+    The University of Birmingham is a public research university located in Edgbaston, Birmingham, United Kingdom. It received its royal charter in 1900 as a successor to Queen's College, Birmingham and Mason Science College, making it the first English civic or 'red brick' university to receive its own royal charter.
+  description: | # this will include new lines to allow paragraphs
+    MSc Advance Computer Science in UoB is a half-research programme, contain two areas mini research project in one year. I chose the following courses,
+    - Neural Computation
+    - Machine Learning
+    - Intelligent Data Analysis
+    - Mobile & Ubiquitous Computing
+    - Human Computer Interaction
+- layout: left
+  name: Nanjing University of Aeronautics and Astronautics
+  dates: 2012 - 2016
+  qualification: BEng Computer Science and Technology
+  quote: >
+    Nanjing University of Aeronautics and Astronautics (NUAA), is an elite, Chinese Ministry of Education Double First Class Discipline University, with Double First Class status in certain disciplines. 
+  description: | # this will include new lines to allow paragraphs
+    In four years of undergraduate study, systematically studied the main theoretical courses of computer science. Participated in ACM-ICPC and get bronze prize, also participated other domestic programming competitions.
+    Before my undergraduate study, I get second prize on National Olympiad in Informatics in Provinces. 
+    The thesis topic is: "Design of ERP system based on relational database"
