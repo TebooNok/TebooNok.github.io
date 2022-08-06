@@ -37,7 +37,7 @@ linkedin_username: 心悦-陈-598b20103
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Xinyue and now I'm a Doctoral Fellowship of University of Luxembourg, supervised by Xiaoyang Tan. I am a programming fan from childhood. My academic research is mainly in the field of <mark>Reinforcement Learning</mark>.
-  My common technology stack includes <mark>Python</mark>, <mark>Java</mark>, <mark>JavaScripts</mark> etc.
+  My common technology stack includes <mark>Python</mark>, <mark>Java</mark>, <mark>Spark</mark> etc.
   In <mark>RL</mark>, my focus area is <mark>Offline RL</mark> and <mark>XRL</mark>, familiar with <mark>Gym</mark> and <mark>D4RL</mark>.
 
 # Projects Section

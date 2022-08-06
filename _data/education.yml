@@ -1,18 +1,18 @@
 # Education Template
 - layout: left
-  name: Nanjing University of Aeronautics and Astronautics (NUAA)
+  name: Nanjing University of Aeronautics and Astronautics
   dates: 2022 - Now
   qualification: PhD of Computer Science
   quote: >
-    The University of Luxembourg was founded in 2003 by combining four existing education and research institutes: the Centre universitaire, Institut supérieur d'études et de recherches pédagogiques, Institut supérieur de technologie, and Institut d'études éducatives et sociales. The university is the only public university in Luxembourg.
+    Nanjing University of Aeronautics and Astronautics (NUAA), is an elite, Chinese Ministry of Education Double First Class Discipline University, with Double First Class status in certain disciplines.
   description: | # this will include new lines to allow paragraphs
     As a PhD student in SnT, I mainly research on Natural Language Processing Tasks.
 - layout: left
-  name: University of New South Wales (UNSW)
+  name: University of New South Wales
   dates: 2019 - 2021
   qualification: Master of Information Technology
   quote: >
-    Osaka University is a public research university located in Osaka Prefecture, Japan. It was one of Imperial Universities in Japan, one of the Designated National University and selected as a Top Type university of Top Global University Project by the Japanese government.
+    The University of New South Wales (UNSW) established in 1949, UNSW is a research university, ranked 44th in the world in the 2021 QS World University Rankings. UNSW is ranked top 20 in the world for Law, Accounting and Finance, and 1st in Australia for Mathematics, Engineering and Technology.
   description: | # this will include new lines to allow paragraphs
     As a PhD student in Intelligence and Sensing Lab., I mainly research on Video Question-Answering system and other NLP based fusion missions. Transfer to Luxembourg by March 2022.
 - layout: left
@@ -20,7 +20,7 @@
   dates: 2012 - 2016
   qualification: BEng Computer Science and Technology
   quote: >
-    Nanjing University of Aeronautics and Astronautics (NUAA), is an elite, Chinese Ministry of Education Double First Class Discipline University, with Double First Class status in certain disciplines. 
+    Nanjing University of Aeronautics and Astronautics (NUAA), is an elite, Chinese Ministry of Education Double First Class Discipline University, with Double First Class status in certain disciplines.
   description: | # this will include new lines to allow paragraphs
     In four years of undergraduate study, systematically studied the main theoretical courses of computer science. Participated in ACM-ICPC and get bronze prize, also participated other domestic programming competitions.
     Before my undergraduate study, I get second prize on National Olympiad in Informatics in Provinces.
