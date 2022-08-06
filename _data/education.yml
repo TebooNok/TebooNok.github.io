@@ -6,7 +6,7 @@
   quote: >
     Nanjing University of Aeronautics and Astronautics (NUAA), is an elite, Chinese Ministry of Education Double First Class Discipline University, with Double First Class status in certain disciplines.
   description: | # this will include new lines to allow paragraphs
-    As a PhD student in SnT, I mainly research on Natural Language Processing Tasks.
+    As a PhD student in PARNEC (PAttern Recognition and NEural Computing) group, I mainly research on Reinforcement Learning Tasks.
 - layout: left
   name: University of New South Wales
   dates: 2019 - 2021
@@ -14,7 +14,15 @@
   quote: >
     The University of New South Wales (UNSW) established in 1949, UNSW is a research university, ranked 44th in the world in the 2021 QS World University Rankings. UNSW is ranked top 20 in the world for Law, Accounting and Finance, and 1st in Australia for Mathematics, Engineering and Technology.
   description: | # this will include new lines to allow paragraphs
-    As a PhD student in Intelligence and Sensing Lab., I mainly research on Video Question-Answering system and other NLP based fusion missions. Transfer to Luxembourg by March 2022.
+    My academic plan in UNSW contains a set of advanced topics. I chose the following courses,
+    - Design and Analysis of Algorithm
+    - Machine Learning and Data Mining
+    - Computer Vision
+    - Neural Network and Deep Learning
+    - Big Data
+    - Data Warehourse
+    - Information Retrieval and Web Search
+  These courses provide deep insight and practice in two areas, big data process and machine learning.
 - layout: left
   name: Nanjing University of Aeronautics and Astronautics
   dates: 2012 - 2016
@@ -24,4 +32,4 @@
   description: | # this will include new lines to allow paragraphs
     In four years of undergraduate study, systematically studied the main theoretical courses of computer science. Participated in ACM-ICPC and get bronze prize, also participated other domestic programming competitions.
     Before my undergraduate study, I get second prize on National Olympiad in Informatics in Provinces.
-    The thesis topic is: "Design of ERP system based on relational database"
+    The thesis topic is: "Active obstacle avoidance for UAVs"
