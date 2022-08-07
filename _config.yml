@@ -57,7 +57,7 @@ more_content: | # this will include new lines to allow paragraphs
     - Photography
     - Sports(Cycling & Soccer)
     - Diving
-    - Dota 2 <img src="/images/profile.jpg" class="rotate">
+    - Dota 2 <img src="/images/immortal.png.jpg" class="rotate">
 
 # Footer
 footer_show_references: true
