@@ -6,3 +6,19 @@
     </div>
   </div>
 </div>
+<style>
+  /*一个不停旋转的animate动画*/
+    .rotate {
+      height:16px;width:16px;margin-left:16px;
+        -webkit-animation: rotate 2s linear infinite;
+        animation: rotate 2s linear infinite;
+    }
+  @keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+</style>
