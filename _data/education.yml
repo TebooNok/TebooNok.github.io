@@ -14,7 +14,7 @@
   quote: >
     The University of New South Wales (UNSW) established in 1949, UNSW is a research university, ranked 44th in the world in the 2021 QS World University Rankings. UNSW is ranked top 20 in the world for Law, Accounting and Finance, and 1st in Australia for Mathematics, Engineering and Technology.
   description: | # this will include new lines to allow paragraphs
-    My academic plan in UNSW contains a set of advanced topics. I chose the following courses,
+    My academic plan in UNSW contains a set of advanced topics. The courses provide deep insight and practice in two areas, big data process and machine learning. I chose the following courses,
     - Design and Analysis of Algorithm
     - Machine Learning and Data Mining
     - Computer Vision
@@ -22,7 +22,6 @@
     - Big Data
     - Data Warehourse
     - Information Retrieval and Web Search
-    These courses provide deep insight and practice in two areas, big data process and machine learning.
 - layout: left
   name: Nanjing University of Aeronautics and Astronautics
   dates: 2012 - 2016
