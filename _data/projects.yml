@@ -3,7 +3,7 @@
   name: Student Mental Health Analysis with LSTM
   link: http://teboonok.github.io/pdf/ml_proj.pdf
   quote: >
-    A ML project for predicting participant’s mental health as well as finding relationship between lifestyle and mental well-being.
+    A ML course project for predicting participant’s mental health as well as finding relationship between lifestyle and mental well-being.
   description: | # this will include new lines to allow paragraphs
     This is a Second Semester Mini-Project of Machine Learning course, a simple research compare different models in Regression and Classification. The research based on Pytorch toolkit and 8 group of collected mobile data, and preprocessed by Spark. The reporter selected the deep neural network (LSTM) and the random forest model.
 
@@ -11,6 +11,6 @@
   name: Retinopathy Recognition and Segmentation
   link: http://teboonok.github.io/pdf/cv_proj.pdf
   quote: >
-    Try to use U-Net for automatic retinal lesion segmentation in color fundus.
+    A CV course project, trying to use U-Net for automatic retinal lesion segmentation in color fundus.
   description: | # this will include new lines to allow paragraphs
     We implement a general approach for automatic retinal lesion segmentation in color fundus image based on deep learning U-Net model . Our network achieves good performance in some cases. But, Our current defects in this task is a little overfitting due to training data is too little, it only contains 54 images with masks. And we think it could be extended by rotate.

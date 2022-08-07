@@ -6,7 +6,7 @@
   quote: >
     Nanjing University of Aeronautics and Astronautics (NUAA), is an elite, Chinese Ministry of Education Double First Class Discipline University, with Double First Class status in certain disciplines.
   description: | # this will include new lines to allow paragraphs
-    As a PhD student in PARNEC (PAttern Recognition and NEural Computing) group, I mainly research on Reinforcement Learning Tasks.
+    As a PhD student in [PARNEC (PAttern Recognition and NEural Computing)](http://parnec.nuaa.edu.cn/main.htm) group, I mainly research on Reinforcement Learning Tasks.
 - layout: left
   name: University of New South Wales
   dates: 2019 - 2021
